@@ -1,4 +1,4 @@
-
+ 
 public class Map {
 	public char[][] chunk = new char[9][9]; //main array to hold map ascii
 	private char grass, path, stone, water, cave, loot, NPC, sign, player, bush;
